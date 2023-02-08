@@ -1,0 +1,16 @@
+id: IEDBAFF65
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:14:44.286553
+last_modified: 2023-02-08 15:14:44.286663
+source_metadata:
+  title: Nirvikalpapraveśadhāraṇī
+  language: zh
+bases:
+  825E:
+    base_file: 825E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

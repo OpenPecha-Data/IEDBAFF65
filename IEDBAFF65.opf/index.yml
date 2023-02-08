@@ -1,0 +1,79 @@
+id: 05f47b2118ae4d6caff4cb995f02318c
+annotation_type: index
+revision: '00001'
+annotations:
+  745a6a0624954955b8ebcb5dd648b551:
+    base: 825E.txt
+    Chapters:
+    - title: §1
+      span:
+        start: 0
+        end: 10
+    - title: §2
+      span:
+        start: 11
+        end: 121
+    - title: §3
+      span:
+        start: 122
+        end: 303
+    - title: §4
+      span:
+        start: 304
+        end: 427
+    - title: §5
+      span:
+        start: 428
+        end: 535
+    - title: §6
+      span:
+        start: 536
+        end: 643
+    - title: §7
+      span:
+        start: 644
+        end: 793
+    - title: §8
+      span:
+        start: 794
+        end: 911
+    - title: §9
+      span:
+        start: 912
+        end: 1002
+    - title: §10
+      span:
+        start: 1003
+        end: 1166
+    - title: §11
+      span:
+        start: 1167
+        end: 1442
+    - title: §12
+      span:
+        start: 1443
+        end: 1673
+    - title: §13
+      span:
+        start: 1674
+        end: 2179
+    - title: §14
+      span:
+        start: 2180
+        end: 2599
+    - title: §15
+      span:
+        start: 2600
+        end: 2674
+    - title: §16
+      span:
+        start: 2675
+        end: 2736
+    - title: §17
+      span:
+        start: 2737
+        end: 2783
+    - title: §18
+      span:
+        start: 2784
+        end: 2793
